@@ -1,0 +1,14 @@
+com/demo/bankapp/service/TransferServiceTest.class
+com/demo/bankapp/controller/UserControllerTest.class
+com/demo/bankapp/controller/TransactionControllerTest.class
+com/demo/bankapp/repository/TransferRepositoryTest.class
+com/demo/bankapp/repository/TransactionRepositoryTest.class
+com/demo/bankapp/config/TestUtils.class
+com/demo/bankapp/service/UserServiceTest.class
+com/demo/bankapp/service/WealthServiceTest.class
+com/demo/bankapp/controller/WealthControllerTest.class
+com/demo/bankapp/controller/TransferControllerTest.class
+com/demo/bankapp/repository/WealthRepositoryTest.class
+com/demo/bankapp/BankApplicationTests.class
+com/demo/bankapp/service/TransactionServiceTest.class
+com/demo/bankapp/repository/UserRepositoryTest.class

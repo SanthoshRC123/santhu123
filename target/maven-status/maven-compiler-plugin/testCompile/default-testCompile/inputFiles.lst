@@ -1,0 +1,14 @@
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/repository/TransferRepositoryTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/service/UserServiceTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/repository/WealthRepositoryTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/service/WealthServiceTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/controller/TransferControllerTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/controller/WealthControllerTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/repository/UserRepositoryTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/controller/UserControllerTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/repository/TransactionRepositoryTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/controller/TransactionControllerTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/config/TestUtils.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/BankApplicationTests.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/service/TransferServiceTest.java
+/home/santhosh/Downloads/Spring-Boot-Sample-Project-master/src/test/java/com/demo/bankapp/service/TransactionServiceTest.java
